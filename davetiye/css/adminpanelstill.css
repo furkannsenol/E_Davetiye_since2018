@@ -1,0 +1,195 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+    font-family: Raleway-Medium;
+    src: url(../fonts/Raleway-Medium.ttf);
+}
+@font-face {
+    font-family: Raleway-Medium;
+    src: url(../fonts/Raleway-SemiBold.ttf);
+}
+@font-face {
+    font-family: Raleway-Bold;
+    src: url(../fonts/Raleway-Bold.ttf);
+}
+@font-face {
+    font-family: Raleway-Regular;
+    src: url(../fonts/Raleway-Regular.ttf);
+}
+
+
+.ap-log-container{
+	width: 560px;
+    background: #fff;
+    border-radius: 10px;
+	height:460px;
+	margin:0 auto;
+	padding: 55px 85px;
+	position:relative;
+		vertical-align: middle;
+}
+.ap-log-content{
+	
+	
+	width:100%;
+	height:500;
+	
+}
+.ap-log-title{
+	font-family: Raleway-Medium;
+    font-size: 30px;
+    color: #555555;
+    line-height: 1.2;
+    text-transform: uppercase;
+    text-align: left;
+    width: 100%;
+    display: block;
+	margin-bottom:30px;
+	margin-left:-15px;
+}
+.ap-log-label{
+	    font-family: Raleway-SemiBold;
+    font-size: 13px;
+    color: #555555;
+    line-height: 1.4;
+    text-transform: uppercase;
+}
+.ap-log-checkbox{
+	    font-family: Raleway-Regular;
+    font-size: 14px;
+    color: #999999;
+    line-height: 1.4;
+    display: block;
+    position: relative;
+    
+    cursor: pointer;
+	padding-top:1px;
+}
+.ap-log-sifreunut a{
+	    font-family: Raleway-Regular;
+    font-size: 13px;
+    color: #555555;
+    line-height: 1.4;
+	
+}
+.ap-log-sifreunut a:hover{
+	    color:#57b846;
+		text-decoration:none;
+}
+.ap-log-button{
+	margin-top:20px;
+	    font-family: Raleway-Bold;
+    font-size: 16px;
+    color: #fff;
+    line-height: 1.2;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    min-width: 150px;
+    height: 55px;
+    background-color: #333333;
+    border-radius: 27px;
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
+	margin-left:-15px;
+}
+
+.ap-log-button:hover{
+	background-color:#57b846;
+	color:#fff;
+}
+.table > tbody > tr > td {
+     vertical-align: middle;
+}
+
+.table > tbody > tr > td >img {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+	    padding: 4px;
+		    transition: all 0.2s ease-in-out;
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+
+.ekle {
+	color:#39C;
+}
+
+.ekle:hover {
+	color:#505050;
+}
+
+.panel-default>.menu-panel {
+    text-transform: uppercase;
+    padding: 15px 15px 15px 30px;
+    color: #FFFFFF;
+    background: #1a2226;  
+	border-bottom: 1px solid #19222E; 
+
+}
+.admin-menu li  a
+{
+   color: #b8c7ce;
+    width:100%;
+	background-color:#222d32;
+}
+.admin-menu li  a:hover
+{
+     background-color: #1e282c;
+	 color:white;
+}
+.body-panel{
+	
+	background-color:#222d32;
+}
+#header {
+    min-height: 0px;
+    background: #FFFFFF;
+    border-bottom: 1px solid #d8d8d8;
+    margin: 0;
+    padding: 0;
+    box-shadow: 0px 0px 3px #ccc;
+   
+}
+
+#header .nav > li > a {
+    padding: 0px 21px;
+    line-height: 55px;
+    cursor: pointer;
+    color: #6D6D6D;
+    border-left: 0px solid #E1E1E1;
+}
+#header .navbar-right > li {
+    border-left: 1px solid #eee;
+}
+#header #user-profile {
+   
+    margin-right: 15px;
+}
+
+
+.navbar-brand {
+    float: left;
+    padding: 20px 15px;
+    font-size: 17px;
+    padding-left:50px;
+   
+}
+
+.input-file{
+	width:100%;
+	height: 34px; 
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;   	
+}
+

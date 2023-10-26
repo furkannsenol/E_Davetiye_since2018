@@ -18,7 +18,8 @@
 ![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/bef62df5-9862-4c72-a496-8850f0a45767)
 ![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/edf60e31-c24d-4899-869e-02c6494d8bdc)
 ![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/beb52b0f-1dce-4af6-9a35-57622fa6a077)
-![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/95a75dfe-b779-42d1-af92-423f82017f86)
+![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/54727625-720a-48ac-934e-d9459e8b7850)
+
 ![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/d7cdc8c6-45f0-4871-8a33-71c0334fd019)
 ![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/d13d351c-6225-46df-a4bb-251bd1494288)
 ![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/42b54de8-63a1-45e3-ac6a-50b68311fe85)
@@ -27,9 +28,13 @@
 ![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/778b2233-00de-48bb-8571-0f5c44579866)
 ![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/4196995d-66df-4a42-b65e-cf0e09d750c7)
 ![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/1cb85c29-1119-4cf3-8433-e6908963ac0e)
-![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/ffb0cce6-2133-4ba3-b0e4-f725f8e5ea0c)
+
+![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/2e1e36f4-3067-4568-9c52-e539b2ed6e0d)
+
+
 ![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/3f252b7d-c782-46dd-9197-86551a9bb2b4)
-![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/ec1c1f06-2d5d-46e9-b87e-396b634ea702)
+
+![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/8ed4ad81-01e3-49e0-9ed2-e8aedb9f3932)
 
 ![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/811ab912-b77d-4812-9219-c8cff414edcb)
 ![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/11143b6d-245b-4014-beab-1f1772748dac)
@@ -40,7 +45,7 @@
 ![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/36a291cc-40ea-43f1-9011-28a8c3eb57b0)
 ![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/0b73f33d-694f-43bf-a85b-fd9e40a4b0fd)
 
-![image](https://github.com/furkannsenol/E_Davetiye_since2018/assets/36533867/e71f9419-dd95-41e7-bf11-c48e1750b179)
+
 
 
 
